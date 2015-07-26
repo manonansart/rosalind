@@ -1,3 +1,5 @@
+# http://rosalind.info/problems/revc/
+
 import sys
 
 str = sys.argv[1]
